@@ -3,3 +3,5 @@
 - 🔭 I’m currently working on becoming a software developer at SintLucas!
 - 🌱 I’m currently learning how to use github
 - 🤔 I’m looking for help with learning coding languages 
+ 📊 My GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
